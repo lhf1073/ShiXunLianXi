@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.mylianxi.frament.QinFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <com.recker.flybanner.FlyBanner
+        android:id="@+id/fly1"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="最新"
+        android:textColor="#ff00ff"
+        android:layout_margin="20dp"
+        />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recy2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        ></android.support.v7.widget.RecyclerView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#ff00ff"
+        android:layout_margin="20dp"
+        android:text="全部"
+        />
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recy3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        ></android.support.v7.widget.RecyclerView>
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShiXunLianXi.iml" filepath="$PROJECT_DIR$/ShiXunLianXi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myframenttabhost/myframenttabhost.iml" filepath="$PROJECT_DIR$/myframenttabhost/myframenttabhost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylianxi/mylianxi.iml" filepath="$PROJECT_DIR$/mylianxi/mylianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myzuoye/myzuoye.iml" filepath="$PROJECT_DIR$/myzuoye/myzuoye.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myzuoye1/myzuoye1.iml" filepath="$PROJECT_DIR$/myzuoye1/myzuoye1.iml" />
+    </modules>
+  </component>
+</project>
